@@ -29,7 +29,7 @@ def clean_output_dir(dir_path):
     if not dir_path.exists():
         return
     for item in dir_path.iterdir():
-        if item.name in (".git", ".gitignore", "src"):
+        if item.name in (".git", ".gitignore", "src", "README.md"):
             continue
         if item.is_dir():
             shutil.rmtree(item)
