@@ -186,3 +186,11 @@
   language: EN
   category: 科普人文
   color: "#27ae60"
+
+- slug: this-american-life
+  name: This American Life
+  desc: 美国老牌叙事播客，每周用纪录片式的音频讲述普通人的非凡故事，从街头到世界尽头，用真实的声音捕捉人性的复杂与戏剧性。
+  link: https://www.thisamericanlife.org/
+  language: EN
+  category: 深度调查
+  color: "#2c3e50"
